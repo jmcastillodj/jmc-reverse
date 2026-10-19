@@ -59,6 +59,6 @@ Built on JUCE (AGPLv3 or commercial licence). Commercial closed-source distribut
 See `release/LICENSE-NOTICE.txt`.
 
 ## Windows
-A 64-bit Windows build (VST3) is produced by GitHub Actions (`.github/workflows/windows.yml`): it builds with Visual Studio 2022,
+A 64-bit Windows build (VST3) is produced by GitHub Actions (`.github/workflows/windows.yml`): it builds with the runner's Visual Studio (MSVC, x64),
 runs the same test suites, loads the finished plug-in through a VST3 host and uploads `JMC REVERSE <version> Windows x64.zip`.
 Installation: `release/windows/INSTALL.md`.
