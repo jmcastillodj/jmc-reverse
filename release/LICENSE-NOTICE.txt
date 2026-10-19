@@ -1,0 +1,7 @@
+JMC REVERSE is built with the JUCE framework (https://juce.com), pinned at version 8.0.15, which also bundles
+the Steinberg VST3 SDK and other third-party libraries (FLAC, Ogg Vorbis, zlib, libpng, libjpeg) in the form
+required by JUCE.
+
+JUCE is dual-licensed: AGPLv3 or a commercial JUCE licence. Distributing this plugin commercially and
+closed-source requires a JUCE commercial licence (or releasing the source under AGPLv3). VST is a trademark
+of Steinberg Media Technologies GmbH. This file is a reminder, not legal advice.

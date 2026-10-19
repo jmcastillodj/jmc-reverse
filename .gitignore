@@ -1,0 +1,6 @@
+build*/
+dist/
+*.log
+.DS_Store
+/docs/demos/
+docs/demo_riser*.wav
